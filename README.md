@@ -1,4 +1,4 @@
-# Enterprise GRC Transformation – Fintech Case Study
+<img width="568" height="717" alt="image" src="https://github.com/user-attachments/assets/57fe0131-b858-4f3a-a830-53437923a859" /># Enterprise GRC Transformation – Fintech Case Study
 
 ## Executive Summary
 
@@ -63,3 +63,13 @@ The engagement was structured across four controlled phases:
 This portfolio demonstrates practical, enterprise-grade GRC implementation capability aligned with consulting and Big 4 standards.
 
 It is designed to showcase structured risk management, control alignment, audit preparation, and compliance lifecycle thinking.
+
+## Author
+
+Deepak Varma  
+Master of Cybersecurity – Monash University  
+ISO 27001 Lead Auditor | CompTIA Security+  
+GRC Professional  
+Melbourne, Australia
+
+
